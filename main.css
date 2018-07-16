@@ -11,28 +11,28 @@ div {
 }
 
 #red { /* this selects any elements with the red id */
-  border-top-color: #f00;
+  color: #f00;
 }
 
 #orange{
-  border-top-color: #ffa500;
+  color: #ffa500;
 }
 
 #yellow{
-  border-top-color: #ff0;
+  color: #ff0;
 }
 
 #green{
-  border-top-color: #00bc3f;
+  color: #00bc3f;
 }
 
 #blue{
-  border-top-color: #06f;
+  color: #06f;
 }
 
 #indigo{
-  border-top-color: #8a2be2;
+  color: #8a2be2;
 }
 #violet{
-  border-top-color: #d300c9;
+  color: #d300c9;
 }
